@@ -1,0 +1,1 @@
+// requires('../index.js')

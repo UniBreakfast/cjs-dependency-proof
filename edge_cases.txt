@@ -1,0 +1,3 @@
+modules from node_modules
+relative path as a getDependencyPool() argument.
+seeing comments in strings
